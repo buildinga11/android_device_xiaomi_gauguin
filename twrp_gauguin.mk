@@ -28,7 +28,7 @@ $(call inherit-product, vendor/omni/config/common.mk)
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := gauguin
-PRODUCT_NAME := omni_gauguin
+PRODUCT_NAME := twrp_gauguin
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := Mi 10T Lite
 PRODUCT_MANUFACTURER := Xiaomi
